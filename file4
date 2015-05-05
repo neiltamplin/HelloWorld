@@ -1,1 +1,11 @@
-This is the first line of file 4.
+<<<<<<< HEAD
+This is a different line of text in file4.
+
+I wonder how git will manage this??
+
+I have to manually edit my changes!
+=======
+This is a different line of text in file4.
+
+I wonder how git will manage this??
+>>>>>>> foo_feature
