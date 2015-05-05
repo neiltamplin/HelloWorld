@@ -1,2 +1,3 @@
 # HelloWorld
-This is my first Repo
+This is a test repository I'm using to learn git.
+All rubbish!
